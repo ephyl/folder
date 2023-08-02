@@ -1,1 +1,2 @@
 6file6
+This file was modifed in the feature branch
